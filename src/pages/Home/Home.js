@@ -5,6 +5,7 @@ import { Wrapper, Welcome, Instruction, Form } from "./style";
 import Button from "../../components/Button/Button";
 import Input from "../../components/Input/Input";
 import { Error } from "../../components/Input/style";
+import Head from "../../components/Helper/Head/Head";
 
 import { Container } from "../../style/Global";
 import { useNavigate } from "react-router-dom";
@@ -32,6 +33,7 @@ const Home = () => {
   return (
     <Container>
       <Wrapper>
+        <Head title="Boas vindas" />
         <Welcome>{wasSent ? `Bem-vindo, ${userName}` : "Olá"}!</Welcome>
         {!wasSent && <Instruction>Insira seu nome:</Instruction>}
         {!wasSent && (
