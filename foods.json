@@ -1,0 +1,52 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Lasanha",
+      "description": "Lasanha com molho bolonhesa com Caldo de Carne e molho branco com Creme de Leite",
+      "time": 30,
+      "price": 12,
+      "image": "https://www.receitasnestle.com.br/images/default-source/recipes/lasanha_a_bolonhesa_saborosa.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bolo",
+        "description": "Bolo de Chocolate Simples com Chocolate Dois Frades",
+        "time": 10,
+        "price": 4,
+        "image": "https://www.receitasnestle.com.br/images/default-source/recipes/197-bolo-chocolate-simples-receitas-nestle.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Parmegiana",
+        "description": "Bife temperado com Natusabor Alho e Cebola Tostadinhos, empanado e assado com molho de tomate e queijo mozarela",
+        "time": 15,
+        "price": 6,
+        "image": "https://www.receitasnestle.com.br/images/default-source/recipes/bife_a_parmegiana_alta.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Petit Gateau",
+        "description": "Mini bolo de Chocolate, com recheio cremoso, servido com Sorvete de Creme",
+        "time": 10,
+        "price": 4,
+        "image": "https://www.receitasnestle.com.br/images/default-source/recipes/petit_gateau.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Ratatouille",
+        "description": "Legumes refogados e assados",
+        "time": 45,
+        "price": 18,
+        "image": "https://www.receitasnestle.com.br/images/default-source/recipes/ratatouille.tmb-customthum.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Sundae",
+        "description": "Sorvete inexplicavelmente caro",
+        "time": 30,
+        "price": 80,
+        "image": "https://pbs.twimg.com/media/CbAlThPUcAAfuBU.jpg:large"
+      }
+  ]
+}
