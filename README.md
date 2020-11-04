@@ -35,7 +35,7 @@ o seguinte comando:
 
 $ json-server --watch foods.json.
 
-O link para acesso da api deve ser diferente da porta 3000 (geralmente será na porta 3000).
+O link para acesso da api deve ser diferente da porta 3001 (geralmente será na porta 3000).
 Caso seja uma diferente de 3000, você deve alterar na base url presente em: src > services > apiUrl.js
 
 Abra http://localhost:3001 no seu navegador para visualizar o projeto
